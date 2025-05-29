@@ -21,12 +21,14 @@ The rover can move randomly 1–4 meters forward or backward per step. If it mov
 - Command Line (Terminal / PowerShell)
 
 ## File Structure
+```
 src/
 └── transport/
-  ├── Vehicle.java
-  ├── UnmannedVehicle.java
-  ├── MarsRover.java
-  └── DamagedRover.java
+    ├── Vehicle.java
+    ├── UnmannedVehicle.java
+    ├── MarsRover.java
+    └── DamagedRover.java
+```
 
 
 
