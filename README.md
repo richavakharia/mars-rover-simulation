@@ -2,6 +2,8 @@
 
 This project simulates the random movement of a damaged Mars Rover navigating a dangerous Martian environment. Built using a 4-level class hierarchy, the simulation evaluates whether the rover runs out of battery or falls off a cliff first.
 
+![Rover Display](mars-rover.png)
+
 ## Project Overview
 The rover can move randomly 1–4 meters forward or backward per step. If it moves more than 1000 meters from its starting point, it falls off a cliff. Otherwise, it runs until the 10,000-meter battery limit is reached. The simulation runs 500 times to estimate how often the rover survives.
 
